@@ -12,5 +12,5 @@ includes:
  - solidworks and STL files for the Case and a test model of the finished PCB
  - scratch files for running the project
 
-![breadboard](https://raw.githubusercontent.com/cineboxandrew/SimonGPIO2.0/master/Images/Breadboard.JPG)
-![Scratch Code](https://raw.githubusercontent.com/cineboxandrew/SimonGPIO2.0/master/Images/Scratch.gif)
+![breadboard](https://raw.githubusercontent.com/FabCamp/SimonGPIO2.0/master/Images/Breadboard.JPG)
+![Scratch Code](https://raw.githubusercontent.com/FabCamp/SimonGPIO2.0/master/Images/Scratch.gif)
