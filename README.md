@@ -10,7 +10,9 @@ includes:
  - Fritzing PCB layout with custom part files for [Square buttons sold by Adafruit][]
 [Square buttons sold by Adafruit]: <http://www.adafruit.com/products/1010>
  - solidworks and STL files for the Case and a test model of the finished PCB
- - scratch files for running the project
-
+ - scratch files and [instructions][] for running the project
+[instructions]: https://github.com/FabCamp/SimonGPIO2.0/blob/master/Scratch%20Instructions.md
+ - [Bill of Materials][] for the project
+[Bill of Materials]: https://github.com/FabCamp/SimonGPIO2.0/blob/master/Bill%20Of%20Materials.md
 ![breadboard](https://raw.githubusercontent.com/FabCamp/SimonGPIO2.0/master/Images/Breadboard.JPG)
 ![Scratch Code](https://raw.githubusercontent.com/FabCamp/SimonGPIO2.0/master/Images/Scratch.gif)
