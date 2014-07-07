@@ -1,5 +1,5 @@
-#Bill Of Materials
-Materials for 30 students to build the project, sharing a breadboard and later building their own PCB
+#Bill Of Materials for Simon Project
+Materials for 30 students to build the project, sharing a breadboard in groups of 2, and later building their own PCBs.
 
 |Product Name              |Source       |Product ID|Unit Price|Quantity|Notes        |Subtotal   |
 |:-------------------------|:------------|:--------:|---------:|:------:|:------------|----------:|
