@@ -5,13 +5,15 @@ Instructions for Building Simon in ScratchGPIO
 
 ![finished code](https://raw.githubusercontent.com/cineboxandrew/SimonGPIO2.0/master/Images/Scratch.gif)
 
+###Part 1
+
 When you start up the raspberry pi, you will see a desktop. The raspberry pi uses an operating system called Linux, which is similar to your Windows or Mac computers at home. To open ScratchGPIO, doubleclick on its icon on the desktop. If you open the normal Scratch, you will not be able to interface with your circuit. 
 
 Once you have opened ScratchGPIO, go to file>open and select the Simon_Start file. You will start with this block of code, which we will get to later.
 
 ![starter block](https://raw.githubusercontent.com/cineboxandrew/SimonGPIO2.0/master/Images/StartingCodeBlock.png)
 
-Firts, we must have our script start when we begin the program. From the “control” tab on the upper left, drag into the canvas the first block, which should say “when (flag) clicked”. this will mean the block of code are creating will run as soon as we hit either the little green flag on the upper right, or hit the “enter” key on the keyboard. 
+First, we must have our script start when we begin the program. From the “control” tab on the upper left, drag into the canvas the first block, which should say “when (flag) clicked”. this will mean the block of code are creating will run as soon as we hit either the little green flag on the upper right, or hit the “enter” key on the keyboard. 
 
 Now we need to set up our variables. in the variables tab, bring in 2 `set variable` blocks. change one to the `score` variable, and the other to the `time` variable. Set `score` to `0` and `time` to `1`. We must also reset our list of computer-created tones, so bring down the `delete () of []` block, setting it to **delete all of `CPU_tones`**. Now add a “forever” loop from the control tab. This will run *indefinitely* until we stop our script. Add another `delete` block to **delete all of `Player_tones`** inside the forever loop.
 
@@ -20,6 +22,8 @@ In our project, we also have a variable called `human_player`. This keeps track 
 Under this, add the block of code you started with. this is the code that shows what the pattern is, but it is complicated, so I gave it to you in the file. 
 
 Now the human player must play back the pattern on the buttons. add another block to **set `human_player` to `true`**. For the human to be able to play the pattern, we must have the code detect when buttons are pressed, so we must work on another code block to do that. 
+
+###Part 2
 
 Drag in another "When (flag) clicked" block from the control tab. under it, **add a forever loop**, and inside it, **add an if block from the control tab**. This will check if a condition is met. add another if block inside it. These blocks have to check:
   1. *if* it is the players turn to push the buttons 
@@ -41,6 +45,8 @@ Duplicate this block 3 times, and change the pin values, broadcast values, and v
 
 to let you press the buttons, go back to your first, main block of code and add a block from the control tab to "wait until < >". in it, add an "equals" block, and in each half, add the “length of” block from the variables tab. change them so one is `player_tones` and the other is `CPU_tones`. Order does not matter here. This waits until the player has pressed all the buttons they need to before advanceing in the game
 
+###Part 3
+
 if you start the script now, you should see you should be able to push the buttons, and the `player_tones` list will change as you press them. However, the game doesn't care what buttons you press, so we need to check if the buttons the player pressed (`player_tones`) is the same as the tones the computer created(`CPU_tones`). For this, we need a special kind of *if* called an *if else*. these are also under control. add one, and add another equals block into its hexagon socket. In an if else, the condition given is checked, and then runs the first half of the "E". however, if it is false, it will run the second half of the "E".
 
 In each half of the hexagon socket, add `player_tones` and `CPU_tones`. Order doesn’t matter here. this checks if the list of buttons the player pressed is the same as, or equal to, the list of colors the computer presented them. *If* it is, the player won that round, and our code will lead into the first part of the “E”. *else*, the player lost, it will go to the second half of the “E”, and the game should end. 
@@ -48,6 +54,7 @@ In each half of the hexagon socket, add `player_tones` and `CPU_tones`. Order do
 If the player won, they should get another point, so add a block from variables to change score by one. We also want the game to go faster, so our time delay `time` should be changed. We can change this to 9/10 of what it was in the last round by adding a few blocks to **set time to (time * 0.9).** The multiplication block is under operators. Feel free to change 0.9 to another number, but if you make it too low (like 0.1), the game will get too fast too quickly. 
 
 Under else, we need to end the game. from the Looks tab, add a block to say “you made a mistake” for 2 seconds. also add a "stop all" block from control. Finally, add a block to wait `1` second from the control tab, to make sure the game doesn't start playing the next pattern until the player is ready. 
+
 
 If you play the game now, it may be difficult, because the lights aren't turning on!
 
