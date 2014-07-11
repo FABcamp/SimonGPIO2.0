@@ -21,8 +21,6 @@ Now the cumputer must play back the list of tones it has generated. This will st
 
 Now the human player must play back the pattern on the buttons. add another block to **set `human_player` to `true`**. For the human to be able to play the pattern, we must have the code detect when buttons are pressed, so we must work on another code block to do that. 
 
-###Part 2
-
 Drag in another "When (flag) clicked" block from the control tab. under it, **add a forever loop**, and inside it, **add an if block from the control tab**. This will check if a condition is met. add another if block inside it. These blocks have to check:
   1. *if* it is the players turn to push the buttons 
   2. *if* the button is being pushed. 
@@ -33,6 +31,7 @@ Inside these 2 Ifs, add a yellow "broadcast block "from the control tab. in its 
 
 Duplicate this block 3 times, and change the pin values, broadcast values, and values to add to player_tones to match the 4 buttons on your board using the following table:
 
+##Part 2
 
 |color |number|pin name|
 |:-----|:----:|:-------|
@@ -43,7 +42,6 @@ Duplicate this block 3 times, and change the pin values, broadcast values, and v
 
 to let you press the buttons, go back to your first, main block of code and add a block from the control tab to "wait until < >". in it, add an "equals" block, and in each half, add the “length of” block from the variables tab. change them so one is `player_tones` and the other is `CPU_tones`. Order does not matter here. This waits until the player has pressed all the buttons they need to before advanceing in the game
 
-###Part 3
 
 if you start the script now, you should see you should be able to push the buttons, and the `player_tones` list will change as you press them. However, the game doesn't care what buttons you press, so we need to check if the buttons the player pressed (`player_tones`) is the same as the tones the computer created(`CPU_tones`). For this, we need a special kind of *if* called an *if else*. these are also under control. add one, and add another equals block into its hexagon socket. In an if else, the condition given is checked, and then runs the first half of the "E". however, if it is false, it will run the second half of the "E".
 
