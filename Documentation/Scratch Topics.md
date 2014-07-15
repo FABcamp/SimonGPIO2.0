@@ -10,6 +10,8 @@ Scratch Topics to Cover for Fabcamp and Appcamp
   - how are they unlike variables in algebra?
     - can store strings (words)
     - can either set a value, or compare the value
+  - how can we set `Time = (Time * 0.9)` 
+    - `Time * 0.9` can take the place of a value
 2. Lists
   - how do they work?
   - why do we need to reset them each game?
