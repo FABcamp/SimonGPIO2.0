@@ -1,23 +1,66 @@
-#Bill Of Materials for Simon Project
-Materials for 30 students to build the project, sharing a breadboard in groups of 2, and later building their own PCBs.
+Bill Of Materials
+=================
 
-|Product Name              |Source       |Product ID|Unit Price|Quantity|Notes        |Subtotal   |
-|:-------------------------|:------------|:--------:|---------:|:------:|:------------|----------:|
-|Breadboard with Jumpers   |[Amazon][1]  |B008A9UP1C|$	11.69  |12 x    |             |$	140.28  |
-|Pi-Cobbler W/ Cable       |[Adafruit][2]|1754      |$	6.25   |12 x    |             |$	75.00   |
-|Pi GPIO cable             |[Adafruit][3]|862       |$  2.66   |15 x    |for PCBs     |$  39.90   |
-|Colored Square buttons    |[Adafruit][4]|1010      |$	5.95   |9 x     |3 of ea color|$	53.55   |
-|Assorted LEDs (RGBY)      |[Sparkfun][5]|Com-12062 |$	2.95   |6 x     |5 of ea color|$	17.70   |
-|330Ω ohm resistors 20 pack|[Sparkfun][6]|Com-11507 |$	0.95   |6 x     |             |$	5.70    |
-|26 pin shrouded header    |[Sparkfun][7]|PRT-11490 |$	0.95   |30 x    |             |$	28.50   |
-|Simon PCBs                |PentaLogix   |SIMON     |~$ 16     |30 x    |price varies |$  488.10  |
-|3D printed Cases          |RapidTech    |N/A       |$  0      |30 x    |see STL files|$  0.00    |
-|                          |             |          |          |        |       Total:|$	848.73  |
+###### All the materials necessary to build the SimonGPIO2.0 Project
 
-[1]: http://www.amazon.com/microtivity-830-point-Experiment-Breadboard-Jumper/dp/B008A9UP1C
-[2]: http://www.adafruit.com/products/1754
-[3]: http://www.adafruit.com/products/862
-[4]: http://www.adafruit.com/products/1010
-[5]: https://www.sparkfun.com/products/12062
-[6]: https://www.sparkfun.com/products/11507
-[7]: https://www.sparkfun.com/products/11490
+--------------------------------------------------------------------
+
+#### Raspberry Pis
+###### Base materials for each Raspberry Pi.
+for each student:
+
+| Name              | Source         | Product SKU  | Price |
+| ----------------- | -------------- |:------------:| ----- |
+| Raspberry Pi kits | [Cana Kit][1]  |      N/A     | $84.95|
+| Downgrade Cable   | [Adafruit][2]  |     #1986    | $2.95 |
+| HDMI-DVI adapter  | [Monoprice][3] |     #2029    | $2.28 |
+
+[1]: http://www.canakit.com/raspberry-pi-starter-kit.html
+[2]: https://www.adafruit.com/products/1986
+[3]: http://www.monoprice.com/Product?c_id=104&cp_id=10419&cs_id=1041902&p_id=2029&seq=1&format=2
+
+-----------------
+
+#### Breadboards
+###### For the Prototyping stage of the project
+for each student:
+(fractional quantities mean one unit supplies multiple students)
+
+| Name                   | Source        | Product SKU  | Unit Price  | Quantity | Subtotal   |
+| ---------------------- | ------------- |:------------:| ----------- |:--------:| ---------- |
+| Breadboard with Jumpers| [Amazon][4]   |  B008A9UP1C  | $11.69      |     1    | $11.69     |
+| Pi-Cobbler W/ Cable    | [Adafruit][5] |    #1754     | $6.25       |     1    | $6.25      |
+| Colored Square buttons | [Adafruit][6] |    #1010     | $5.95       |    1/3   | $1.99      |
+| Assorted LEDs (RGBY)   | [Sparkfun][7] |   Com-12062  | $2.95       |    1/5   | $0.59      |
+| 330Ω ohm resistors x20 | [Sparkfun][8] |   Com-11507  | $0.95       |    1/5   | $0.20      |
+
+[4]: http://www.amazon.com/microtivity-830-point-Experiment-Breadboard-Jumper/dp/B008A9UP1C
+[5]: http://www.adafruit.com/products/1754
+[6]: http://www.adafruit.com/products/1010
+[7]: https://www.sparkfun.com/products/12062
+[8]: https://www.sparkfun.com/products/11507
+
+------------------
+
+#### PCBs
+###### For the soldering project.
+
+ Some parts can be reused from Breadboard section of the project. PCB costs will depend on your fabhouse.
+ 
+for each student:
+
+(fractional quantities mean one unit supplies multiple students)
+
+
+| Name                   | Source        | Product SKU  | Unit Price  | Quantity | Subtotal   |
+| ---------------------- | ------------- |:------------:| ----------- |:--------:| ---------- |
+| Colored Square buttons | [Adafruit][6] |    #1010     | $5.95       |    1/3   | $1.99      |
+| Assorted LEDs (RGBY)   | [Sparkfun][7] |   Com-12062  | $2.95       |    1/5   | $0.59      |
+| 330Ω ohm resistors x20 | [Sparkfun][8] |   Com-11507  | $0.95       |    1/5   | $0.20      |
+| 26 pin shrouded header | [Sparkfun][9] |   Prt-11490  | $0.95       |     1    | $0.95      |
+| Pi GPIO cable          | [Adafruit][10]|     #863     | $2.66       |     1    | $2.66      |
+
+[9]: https://www.sparkfun.com/products/11490
+[10]: http://www.adafruit.com/products/862
+
+------------------
