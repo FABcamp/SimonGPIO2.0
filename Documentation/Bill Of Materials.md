@@ -49,7 +49,7 @@ for each student:
 #### PCBs
 ###### For the soldering project.
 
- Some parts can be reused from Breadboard section of the project. PCB costs will depend on your fabhouse.
+ Some parts can be reused from Breadboard section of the project. PCB costs will depend on your fabhouse. We got 65 for $500 from [Bay Area Circuits][11]
  
 for each student:
 
@@ -66,6 +66,6 @@ for each student:
 | Total:                 |               |              |             |          | **$6.68**  | 
 
 [10]: https://www.sparkfun.com/products/11490
-
+[11]: http://bayareacircuits.com
 
 ------------------
