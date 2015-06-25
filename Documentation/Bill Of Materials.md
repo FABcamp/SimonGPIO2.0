@@ -30,15 +30,17 @@ for each student:
 | ---------------------- | ------------- |:------------:| ----------- |:--------:| ---------- |
 | Breadboard with Jumpers| [Amazon][4]   |  B008A9UP1C  | $11.69      |     1    | $11.69     |
 | Pi-Cobbler W/ Cable    | [Adafruit][5] |    #1754     | $6.25       |     1    | $6.25      |
-| Colored Square buttons | [Adafruit][6] |    #1010     | $5.95       |    1/3   | $1.99      |
-| Assorted LEDs (RGBY)   | [Sparkfun][7] |   Com-12062  | $2.95       |    1/5   | $0.59      |
-| 330Ω ohm resistors x20 | [Sparkfun][8] |   Com-11507  | $0.95       |    1/5   | $0.20      |
+| Downgrade Cable        | [Adafruit][6] |    #1986     | $2.95       |     1    | $2.95
+| Colored Square buttons | [Adafruit][7] |    #1010     | $5.95       |    1/3   | $1.99      |
+| Assorted LEDs (RGBY)   | [Sparkfun][8] |   Com-12062  | $2.95       |    1/5   | $0.59      |
+| 330Ω ohm resistors x20 | [Sparkfun][9] |   Com-11507  | $0.95       |    1/5   | $0.20      |
 
 [4]: http://www.amazon.com/microtivity-830-point-Experiment-Breadboard-Jumper/dp/B008A9UP1C
 [5]: http://www.adafruit.com/products/1754
-[6]: http://www.adafruit.com/products/1010
-[7]: https://www.sparkfun.com/products/12062
-[8]: https://www.sparkfun.com/products/11507
+[6]: http://www.adafruit.com/products/1986
+[7]: http://www.adafruit.com/products/1010
+[8]: https://www.sparkfun.com/products/12062
+[9]: https://www.sparkfun.com/products/11507
 
 ------------------
 
@@ -54,13 +56,14 @@ for each student:
 
 | Name                   | Source        | Product SKU  | Unit Price  | Quantity | Subtotal   |
 | ---------------------- | ------------- |:------------:| ----------- |:--------:| ---------- |
-| Colored Square buttons | [Adafruit][6] |    #1010     | $5.95       |    1/3   | $1.99      |
-| Assorted LEDs (RGBY)   | [Sparkfun][7] |   Com-12062  | $2.95       |    1/5   | $0.59      |
-| 330Ω ohm resistors x20 | [Sparkfun][8] |   Com-11507  | $0.95       |    1/5   | $0.20      |
-| 26 pin shrouded header | [Sparkfun][9] |   Prt-11490  | $0.95       |     1    | $0.95      |
-| Pi GPIO cable          | [Adafruit][10]|     #863     | $2.66       |     1    | $2.66      |
+| Colored Square buttons | [Adafruit][7] |    #1010     | $5.95       |    1/3   | $1.99      |
+| Assorted LEDs (RGBY)   | [Sparkfun][8] |   Com-12062  | $2.95       |    1/5   | $0.59      |
+| 330Ω ohm resistors x20 | [Sparkfun][9] |   Com-11507  | $0.95       |    1/5   | $0.20      |
+| 26 pin shrouded header | [Sparkfun][10]|   Prt-11490  | $0.95       |     1    | $0.95      |
+| Downgrade Cable        | [Adafruit][6] |    #1986     | $2.95       |     1    | $2.95      |
 
-[9]: https://www.sparkfun.com/products/11490
-[10]: http://www.adafruit.com/products/862
+
+[10]: https://www.sparkfun.com/products/11490
+
 
 ------------------
