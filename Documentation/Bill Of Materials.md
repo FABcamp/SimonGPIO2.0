@@ -49,7 +49,7 @@ for each student:
 #### PCBs
 ###### For the soldering project.
 
- Some parts can be reused from Breadboard section of the project. PCB costs will depend on your fabhouse. We got 65 for $500 from [Bay Area Circuits][11]. You will also need solder, soldering irons, copper wick, etc.
+ Some parts can be reused from Breadboard section of the project. These items are marked in *italics*. PCB costs will depend on your fabhouse. We got 65 for $500 from [Bay Area Circuits][11]. You will also need solder, soldering irons, copper wick, etc.
  
 for each student:
 
@@ -58,10 +58,10 @@ for each student:
 
 | Name                   | Source        | Product SKU  | Unit Price  | Quantity | Subtotal   |
 | ---------------------- | ------------- |:------------:| ----------- |:--------:| ---------- |
-| Downgrade Cable        | [Adafruit][6] |    #1986     | $2.95       |     1    | $2.95      |
-| Colored Square buttons | [Adafruit][7] |    #1010     | $5.95       |    1/3   | $1.99      |
-| Assorted LEDs (RGBY)   | [Sparkfun][8] |   Com-12062  | $2.95       |    1/5   | $0.59      |
-| 330Ω ohm resistors x20 | [Sparkfun][9] |   Com-11507  | $0.95       |    1/5   | $0.20      |
+|*Downgrade Cable*       | [Adafruit][6] |    #1986     | $2.95       |     1    | $2.95      |
+|*Colored Square buttons*| [Adafruit][7] |    #1010     | $5.95       |    1/3   | $1.99      |
+|*Assorted LEDs (RGBY)*  | [Sparkfun][8] |   Com-12062  | $2.95       |    1/5   | $0.59      |
+|*330Ω ohm resistors x20*| [Sparkfun][9] |   Com-11507  | $0.95       |    1/5   | $0.20      |
 | 26 pin shrouded header | [Sparkfun][10]|   Prt-11490  | $0.95       |     1    | $0.95      |
 | Total:                 |               |              |             |          | **$6.68**  | 
 
