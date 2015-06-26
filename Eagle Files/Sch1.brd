@@ -125,10 +125,8 @@
 </layers>
 <board>
 <plain>
-<wire x1="0" y1="0" x2="62.23" y2="0" width="0" layer="20"/>
-<wire x1="62.23" y1="0" x2="62.23" y2="53.34" width="0" layer="20"/>
-<wire x1="62.23" y1="53.34" x2="0" y2="53.34" width="0" layer="20"/>
-<wire x1="0" y1="53.34" x2="0" y2="0" width="0" layer="20"/>
+<wire x1="62.23" y1="2.54" x2="62.23" y2="50.8" width="0" layer="20"/>
+<wire x1="0" y1="50.8" x2="0" y2="2.54" width="0" layer="20"/>
 <wire x1="30.48" y1="41.91" x2="48.26" y2="41.91" width="0.4064" layer="21"/>
 <wire x1="48.26" y1="41.91" x2="48.26" y2="49.53" width="0.4064" layer="21"/>
 <wire x1="48.26" y1="49.53" x2="12.7" y2="49.53" width="0.4064" layer="21"/>
@@ -144,14 +142,30 @@
 <text x="27.305" y="24.13" size="2.1844" layer="21">UCI</text>
 <hole x="2.54" y="2.54" drill="2.8"/>
 <hole x="59.69" y="2.54" drill="2.8"/>
-<hole x="59.69" y="48.26" drill="2.8"/>
-<hole x="2.54" y="48.26" drill="2.8"/>
+<hole x="59.69" y="50.8" drill="2.8"/>
+<hole x="2.54" y="50.8" drill="2.8"/>
 <wire x1="11.43" y1="50.8" x2="11.43" y2="40.64" width="0.4064" layer="21"/>
-<rectangle x1="0" y1="0" x2="62.103" y2="53.213" layer="22"/>
-<text x="3.81" y="10.16" size="1.778" layer="21" font="vector" rot="R90">version 2.1.3</text>
+<text x="3.81" y="10.16" size="1.778" layer="21" font="vector" rot="R90">version 2.1.4</text>
 <wire x1="30.48" y1="40.64" x2="34.29" y2="40.64" width="0.4064" layer="21"/>
 <wire x1="49.53" y1="40.64" x2="36.83" y2="40.64" width="0.4064" layer="21"/>
 <wire x1="27.94" y1="41.91" x2="30.48" y2="41.91" width="0.4064" layer="21"/>
+<wire x1="62.23" y1="2.54" x2="59.69" y2="0" width="0" layer="20" curve="-90"/>
+<wire x1="2.54" y1="0" x2="0" y2="2.54" width="0" layer="20" curve="-90"/>
+<wire x1="0" y1="50.8" x2="2.54" y2="53.34" width="0" layer="20" curve="-90"/>
+<wire x1="59.69" y1="53.34" x2="62.23" y2="50.8" width="0" layer="20" curve="-90"/>
+<wire x1="59.69" y1="53.34" x2="2.54" y2="53.34" width="0" layer="20"/>
+<wire x1="2.54" y1="0" x2="59.69" y2="0" width="0" layer="20"/>
+<wire x1="1.27" y1="50.8" x2="2.54" y2="52.07" width="0" layer="22" curve="-90"/>
+<polygon width="0" layer="22">
+<vertex x="1.27" y="50.8" curve="-90"/>
+<vertex x="2.54" y="52.07"/>
+<vertex x="59.69" y="52.07" curve="-90"/>
+<vertex x="60.96" y="50.8"/>
+<vertex x="60.96" y="2.54" curve="-90"/>
+<vertex x="59.69" y="1.27"/>
+<vertex x="2.54" y="1.27" curve="-90"/>
+<vertex x="1.27" y="2.54"/>
+</polygon>
 </plain>
 <libraries>
 <library name="SparkFun-Connectors">
