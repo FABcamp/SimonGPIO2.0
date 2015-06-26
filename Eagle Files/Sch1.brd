@@ -156,7 +156,7 @@
 <wire x1="59.69" y1="53.34" x2="2.54" y2="53.34" width="0" layer="20"/>
 <wire x1="2.54" y1="0" x2="59.69" y2="0" width="0" layer="20"/>
 <wire x1="1.27" y1="50.8" x2="2.54" y2="52.07" width="0" layer="22" curve="-90"/>
-<polygon width="0" layer="22">
+<polygon width="0.8128" layer="22">
 <vertex x="1.27" y="50.8" curve="-90"/>
 <vertex x="2.54" y="52.07"/>
 <vertex x="59.69" y="52.07" curve="-90"/>
