@@ -49,7 +49,7 @@ for each student:
 #### PCBs
 ###### For the soldering stage of project.
 
- Some parts can be reused from Breadboard section of the project. These items are marked in *italics*. PCB costs will depend on your fabhouse. We got 65 for $500 from [Bay Area Circuits][11]. You will also need solder, soldering irons, copper wick, etc.
+ Some parts can be reused from Breadboard section of the project. These items are marked in *italics*. PCB costs will depend on your fabhouse. We got 65 for $500 from [Bay Area Circuits][11]. You will also need solder, soldering irons, copper wick, etc. Make sure to buy extra components in case some get destroyed during assembly!
  
 for each student:
 
