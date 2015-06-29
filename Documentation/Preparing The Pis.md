@@ -3,7 +3,7 @@ Preparing The Raspberry Pis
 
 ###### Initial setup
 
-We bought a Cana kit Raspberry Pi Complete Starter Kit for each student. Unfortunately, we do not have acess to the university Wifi without registering the MAC addresses of each pi, so all software had to be installed beforehand. In the process of opening each kit to install the cases, we removed the SD card for cloning.
+We bought a Cana kit Raspberry Pi Complete Starter Kit for each student. The kit includes the Pi, a case, an SD card, a Wifi adapter, a power supply, and an HDMI cable. Unfortunately, we do not have acess to the university Wifi without registering the MAC addresses of each pi, so all software had to be installed beforehand. In the process of opening each kit to install the cases, we removed the SD card for cloning.
 
 -----------------
 
