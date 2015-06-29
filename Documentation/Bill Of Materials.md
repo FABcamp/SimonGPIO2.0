@@ -49,7 +49,7 @@ for each student:
 #### PCBs
 ###### For the soldering stage of project.
 
- Some parts can be reused from Breadboard section of the project. These items are marked in *italics*. PCB costs will depend on your fabhouse. We got 65 for $500 from [Bay Area Circuits][11]. You will also need solder, soldering irons, copper wick, etc. Make sure to buy extra components in case some get destroyed during assembly!
+ Some parts can be reused from Breadboard section of the project. These items are marked in *italics*. PCB costs will depend on your fabhouse. We got 65 for $500 from [Bay Area Circuits][10]. You will also need solder, soldering irons, copper wick, etc. Make sure to buy extra components in case some get destroyed during assembly!
  
 for each student:
 
@@ -62,10 +62,13 @@ for each student:
 |*Colored Square buttons*| [Adafruit][7] |    #1010     | $5.95       |    1/3   | $1.99      |
 |*Assorted LEDs (RGBY)*  | [Sparkfun][8] |   Com-12062  | $2.95       |    1/5   | $0.59      |
 |*330Ω ohm resistors x20*| [Sparkfun][9] |   Com-11507  | $0.95       |    1/5   | $0.20      |
-| 26 pin shrouded header | [Sparkfun][10]|   Prt-11490  | $0.95       |     1    | $0.95      |
-| Total:                 |               |              |             |          | **$6.68**  | 
+| 26 pin shrouded header | [Sparkfun][11]|   Prt-11490  | $0.95       |     1    | $0.95      |
+| Plastic Spacer         | [McMaster][12]|  #92825A005  | $6.18       |    1/5   | $1.24      |
+| 316 Steel Screw        | [McMaster][13]|  #90184a110  | $7.02       |    1/20  | $0.35      |
+| Total:                 |               |              |             |          | **$8.27**  | 
 
-[10]: https://www.sparkfun.com/products/11490
-[11]: http://bayareacircuits.com
-
+[10]: http://bayareacircuits.com
+[11]: https://www.sparkfun.com/products/11490
+[12]: http://www.mcmaster.com/#92825a005/=xu4ogi
+[13]: http://www.mcmaster.com/#90184a110/=xu4nd7
 ------------------
