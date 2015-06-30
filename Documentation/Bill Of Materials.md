@@ -56,16 +56,16 @@ for each student:
 (fractional quantities mean one unit supplies multiple students)
 
 
-| Name                   | Source        | Product SKU  | Unit Price  | Quantity | Subtotal   |
-| ---------------------- | ------------- |:------------:| ----------- |:--------:| ---------- |
-|*Downgrade Cable*       | [Adafruit][6] |    #1986     | $2.95       |     1    | $2.95      |
-|*Colored Square buttons*| [Adafruit][7] |    #1010     | $5.95       |    1/3   | $1.99      |
-|*Assorted LEDs (RGBY)*  | [Sparkfun][8] |   Com-12062  | $2.95       |    1/5   | $0.59      |
-|*330Ω ohm resistors x20*| [Sparkfun][9] |   Com-11507  | $0.95       |    1/5   | $0.20      |
-| 26 pin shrouded header | [Sparkfun][11]|   Prt-11490  | $0.95       |     1    | $0.95      |
-| Plastic Spacer         | [McMaster][12]|  #92825A005  | $6.18       |    1/5   | $1.24      |
-| 316 Steel Screw        | [McMaster][13]|  #90184a110  | $7.02       |    1/20  | $0.35      |
-| Total:                 |               |              |             |          | **$8.27**  | 
+| Name                   | Source        | Product SKU  | Model | Unit Price  | Quantity | Subtotal   |
+| ---------------------- | ------------- |:------------:| ----- | ----------- |:--------:| ---------- |
+|*Downgrade Cable*       | [Adafruit][6] |    #1986     |       | $2.95       |     1    | $2.95      |
+|*Colored Square buttons*| [Adafruit][7] |    #1010     |       | $5.95       |    1/3   | $1.99      |
+|*Assorted LEDs (RGBY)*  | [Sparkfun][8] |   Com-12062  |       | $2.95       |    1/5   | $0.59      |
+|*330Ω ohm resistors x20*| [Sparkfun][9] |   Com-11507  |       | $0.95       |    1/5   | $0.20      |
+| 26 pin shrouded header | [Sparkfun][11]|   Prt-11490  |       | $0.95       |     1    | $0.95      |
+| Plastic Spacer         | [McMaster][12]|  #92825A005  |       | $6.18       |    1/5   | $1.24      |
+| 316 Steel Screw        | [McMaster][13]|  #90184a110  |       | $7.02       |    1/20  | $0.35      |
+| Total:                 |               |              |       |             |          | **$8.27**  | 
 
 [10]: http://bayareacircuits.com
 [11]: https://www.sparkfun.com/products/11490
