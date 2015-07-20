@@ -1,4 +1,8 @@
+Writing The Code
+================
 ######This page will guide you through writing the code for your simon game in the Scratch programming environment
+
+_Teachers: Before giving these instructions, make sure you have [covered all the skills necessary!](https://github.com/FABcamp/SimonGPIO2.0/blob/master/Documentation/Topics-to-Cover-Teaching-Scratch.md)_
 
 ![finished code](https://raw.githubusercontent.com/cineboxandrew/SimonGPIO2.0/master/Images/Scratch.gif)
 
