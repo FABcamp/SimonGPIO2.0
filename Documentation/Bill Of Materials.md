@@ -11,14 +11,22 @@ for each student:
 
 | Name              | Source         | Product SKU  | Price      |
 | ----------------- | -------------- |:------------:| ---------- |
-| Raspberry Pi kits | [Cana Kit][1]  |      N/A     | $84.95     |
+| Raspberry Pi 3    | [Newark][1]    |    #77Y6520  | $35.00     |
+| Raspberry pi Case | [Newark][17]   |    #77Y6512  | $6.99      |
+| Micro SD card     | [Amazon][14]   |  B01BMJ25ZA  | $7.49      |
+| Power Supply      | [Amazon][15]   |  B00MARDJZ4  | $10.00     |
+| HDMI Cable        | [Monoprice][16]|     #3871    | $2.00      |  
 | Downgrade Cable   | [Adafruit][2]  |     #1986    | $2.95      |
 | HDMI-DVI adapter  | [Monoprice][3] |     #2029    | $2.28      |
-| Total:            |                |              | **$90.18** |
+| Total:            |                |              | **$66.71** |
 
-[1]: http://www.canakit.com/raspberry-pi-starter-kit.html
+[1]: http://www.newark.com/raspberry-pi/raspberrypi3-modb-1gb/sbc-raspberry-pi-3-mod-b-1gb-ram/dp/77Y6520
 [2]: https://www.adafruit.com/products/1986
-[3]: http://www.monoprice.com/Product?c_id=104&cp_id=10419&cs_id=1041902&p_id=2029&seq=1&format=2
+[3]: http://www.monoprice.com/Product?c_id=104
+[17]: http://www.newark.com/multicomp/cbpiblox-wht/raspberry-pi-enclosure-abs-white/dp/77Y6512
+[14]: http://www.amazon.com/Kingston-microSDHC-Memory-SDC4-8GBET/dp/B00200K1TS/
+[15]: http://www.amazon.com/CanaKit-Raspberry-Supply-Adapter-Charger/dp/B00MARDJZ4/
+[16]: http://www.monoprice.com/product?p_id=3951x
 
 -----------------
 
@@ -50,7 +58,7 @@ for each student:
 ###### For the soldering stage of project.
 
  Some parts can be reused from Breadboard section of the project. These items are marked in *italics*. PCB costs will depend on your fabhouse. We got 65 for $500 from [Bay Area Circuits][10]. You will also need solder, soldering irons, copper wick, etc. Make sure to buy extra components in case some get destroyed during assembly!
- 
+
 for each student:
 
 (fractional quantities mean one unit supplies multiple students)
@@ -65,7 +73,7 @@ for each student:
 | 26 pin shrouded header | [Sparkfun][11]|   Prt-11490  |       | $0.95       |     1    | $0.95      |
 | Plastic Spacer         | [McMaster][12]|  #92825A005  |       | $6.18       |    1/5   | $1.24      |
 | 316 Steel Screw        | [McMaster][13]|  #90184a110  |       | $7.02       |    1/20  | $0.35      |
-| Total:                 |               |              |       |             |          | **$8.27**  | 
+| Total:                 |               |              |       |             |          | **$8.27**  |
 
 [10]: http://bayareacircuits.com
 [11]: https://www.sparkfun.com/products/11490
