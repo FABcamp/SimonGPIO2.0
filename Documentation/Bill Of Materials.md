@@ -7,7 +7,7 @@ Bill Of Materials
 
 #### For Each Student
 
-| Item                   | Source         | Product SKU  | Unit Price | Quanitity | Subtotal   |
+| Item                   | Source         | Product SKU  | Unit Price | Quantity  | Subtotal   |
 | ---------------------- | -------------- |:------------:| ---------- |:---------:| ---------- |
 | Raspberry Pi 3         | [Newark][1]    |    #77Y6520  | $35.00     |     1     | $35.00     |
 | Raspberry pi Case      | [Newark][17]   |    #77Y6512  | $6.99      |     1     | $6.99      |
@@ -24,7 +24,7 @@ Bill Of Materials
 | 26 pin shrouded header | [Sparkfun][11] |   Prt-11490  | $0.95      |     1     | $0.95      |
 | Plastic Spacer         | [McMaster][12] |  #92825A005  | $6.18      |    1/5    | $1.24      |
 | 316 Steel Screw        | [McMaster][13] |  #90184a110  | $7.02      |    1/20   | $0.35      |
-| Total:                 |                |              |            |           | **$66.71** |
+| Total:                 |                |              |            |           | **$89.97** |
 
 [1]: http://www.newark.com/raspberry-pi/raspberrypi3-modb-1gb/sbc-raspberry-pi-3-mod-b-1gb-ram/dp/77Y6520
 [2]: https://www.adafruit.com/products/1986
@@ -44,4 +44,4 @@ Bill Of Materials
 [16]: http://www.monoprice.com/product?p_id=3951x
 [17]: http://www.newark.com/multicomp/cbpiblox-wht/raspberry-pi-enclosure-abs-white/dp/77Y6512
 
- For the Soldering section, some parts can be reused from Breadboard section of the project. These items are marked in *italics*. PCB costs will depend on your fabhouse. We got 65 for $500 from [Bay Area Circuits][10]. You will also need solder, soldering irons, copper wick, etc. Make sure to buy extra components in case some get destroyed during assembly!
+ For the Soldering section, some parts can be reused from Breadboard section of the project. PCB costs will depend on your fabhouse. We got 65 for $500 from [Bay Area Circuits][10]. You will also need solder, soldering irons, copper wick, etc. Make sure to buy extra components in case some get destroyed during assembly!
