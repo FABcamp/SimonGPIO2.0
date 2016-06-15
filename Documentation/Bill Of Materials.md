@@ -20,7 +20,7 @@ Bill Of Materials
 | Pi-Cobbler W/ Cable    | [Adafruit][5]  |    #1754     | $6.25      |     1     | $6.25      |
 | Colored Square buttons | [Adafruit][7]  |    #1010     | $5.95      |    1/3    | $1.99      |
 | Assorted LEDs (RGBY)   | [Sparkfun][8]  |   Com-12062  | $2.95      |    1/5    | $0.59      |
-| 330Ω ohm resistors x20 | [Sparkfun][9]  |   Com-11507  | $0.95      |    1/5    | $0.20      |
+| 330Ω resistors x20     | [Sparkfun][9]  |   Com-11507  | $0.95      |    1/5    | $0.20      |
 | 26 pin shrouded header | [Sparkfun][11] |   Prt-11490  | $0.95      |     1     | $0.95      |
 | Plastic Spacer         | [McMaster][12] |  #92825A005  | $6.18      |    1/5    | $1.24      |
 | 316 Steel Screw        | [McMaster][13] |  #90184a110  | $7.02      |    1/20   | $0.35      |
