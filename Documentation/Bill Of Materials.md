@@ -41,7 +41,7 @@ Bill Of Materials
 [13]: http://www.mcmaster.com/#90184a110/=xu4nd7
 [14]: http://www.amazon.com/Kingston-microSDHC-Memory-SDC4-8GBET/dp/B00200K1TS/
 [15]: http://www.amazon.com/CanaKit-Raspberry-Supply-Adapter-Charger/dp/B00MARDJZ4/
-[16]: http://www.monoprice.com/product?p_id=3951x
+[16]: http://www.monoprice.com/product?p_id=3951
 [17]: http://www.newark.com/multicomp/cbpiblox-wht/raspberry-pi-enclosure-abs-white/dp/77Y6512
 
  For the Soldering section, some parts can be reused from Breadboard section of the project. PCB costs will depend on your fabhouse. We got 65 for $500 from [Bay Area Circuits][10]. You will also need solder, soldering irons, copper wick, etc. Make sure to buy extra components in case some get destroyed during assembly!
