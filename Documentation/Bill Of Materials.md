@@ -18,13 +18,13 @@ Bill Of Materials
 | HDMI-DVI adapter       | [Monoprice][3] |     #2029    | $2.28      |     1     | $2.28      |
 | Breadboard with Jumpers| [Amazon][4]    |  B008A9UP1C  | $11.69     |     1     | $11.69     |
 | Pi-Cobbler W/ Cable    | [Adafruit][5]  |    #1754     | $6.25      |     1     | $6.25      |
-| Colored Square buttons | [Adafruit][7]  |    #1010     | $5.95      |    1/3    | $1.99      |
+| Colored Square buttons | [Adafruit][7]  |    #1010     | $5.95      |    1/3    | $1.98      |
 | Assorted LEDs (RGBY)   | [Sparkfun][8]  |   Com-12062  | $2.95      |    1/5    | $0.59      |
-| 330Ω resistors x20     | [Sparkfun][9]  |   Com-11507  | $0.95      |    1/5    | $0.20      |
-| 26 pin shrouded header | [Sparkfun][11] |   Prt-11490  | $0.95      |     1     | $0.95      |
+| 330Ω resistors x20     | [Digikey][9]   |   330ETR-ND  | $0.01      |    1/5    | $0.01      |
+| 26 pin shrouded header | [Digikey][11]  |  ED10526-ND  | $0.40      |     1     | $0.40      |
 | Plastic Spacer         | [McMaster][12] |  #92825A005  | $6.18      |    1/5    | $1.24      |
 | 316 Steel Screw        | [McMaster][13] |  #90184a110  | $7.02      |    1/20   | $0.35      |
-| Total:                 |                |              |            |           | **$89.97** |
+| Total:                 |                |              |            |           | **$89.21** |
 
 [1]: http://www.newark.com/raspberry-pi/raspberrypi3-modb-1gb/sbc-raspberry-pi-3-mod-b-1gb-ram/dp/77Y6520
 [2]: https://www.adafruit.com/products/1986
@@ -34,9 +34,9 @@ Bill Of Materials
 [6]: http://www.adafruit.com/products/1986
 [7]: http://www.adafruit.com/products/1010
 [8]: https://www.sparkfun.com/products/12062
-[9]: https://www.sparkfun.com/products/11507
+[9]: http://www.digikey.com/product-detail/en/yageo/CFR-12JR-52-330R/330ETR-ND/4162
 [10]: http://bayareacircuits.com
-[11]: https://www.sparkfun.com/products/11490
+[11]: http://www.digikey.com/product-detail/en/on-shore-technology-inc/302-S261/ED10526-ND/2794237
 [12]: http://www.mcmaster.com/#92825a005/=xu4ogi
 [13]: http://www.mcmaster.com/#90184a110/=xu4nd7
 [14]: http://www.amazon.com/Kingston-microSDHC-Memory-SDC4-8GBET/dp/B00200K1TS/
